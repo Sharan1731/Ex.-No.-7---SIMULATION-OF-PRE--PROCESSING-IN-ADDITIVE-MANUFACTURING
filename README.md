@@ -1,5 +1,5 @@
 # Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 23.10.2025
+### DATE: 21-10-2025
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -10,7 +10,7 @@
 ### Pre-processing encompasses the steps between design and printing. Process of 3D printing starts with designing in CAD. Then printer software slices 3D CAD file into layers. For each slice, the software converts the data into machine code that determines tool paths for the machine to follow. The various steps in pre-processing from design to printing are as follows:
 
 ### 1)	CAD File
-### 2)	Conversion to STL a. Orientation b. Support Structure c. Slicing d. Path Planning
+### 2)	Conversion to STL a. Orientation b. Support Structure c. Slicing d. Path Planning        
 
 ### 1. CAD File
 ### Every manufacturing process starts with the process of designing and as in any type of manufacturing, there are certain limitations to the materials and manufacturing processes that dictate how the product should be designed, 3D printing is no different. In 3d printing, characteristics of hardware, software, temperature, filament and many other factors play an important role in how a digital model translates into a printed object. Some of them are designed with a strong base, grain direction, overhung, wall thickness, round corners and tolerances.
@@ -44,11 +44,10 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
-
-![image](https://github.com/user-attachments/assets/9720848b-594b-4b31-ad30-748bea097a5b)
+![Screenshot 2025-04-24 154858](https://github.com/user-attachments/assets/56c124e2-43d9-4085-87ed-8902e6de0c47)
 
 ### Name: SHARAN G
 ### Register Number: 212223230203
 
-## Result: Thus the simulation on the Preprocessing in additive manufacturing is completed .
-](https://github.com/Sharan1731/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE.git)
+## Result: 
+### Thus the simulation on the Preprocessing in additive manufacturing is completed.
